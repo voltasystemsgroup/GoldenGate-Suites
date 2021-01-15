@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<File Type='Manifest' Version='5.1.0' ObjectDisplayList='0'>
+<Project FileName='3673_20Golden_20Gate_20Executive_20Suites_20iPad_20v2.zip' Size='4509729' Build='20181107105857'>
+<Sources>
+<Source FileName='3673_20Golden_20Gate_20Executive_20Suites_20iPad_20v2.xml' Size='555' Type='Application' Build='20181107105856' />
+<Source FileName='3673_20Golden_20Gate_20Executive_20Suites_20iPad_20v2_Resource.xml' Size='7810' Type='Resource' Build='20181107105856' />
+<Source FileName='Cable-Center.xml' Size='28439' Type='Subpage' Build='20181107105873' />
+<Source FileName='IPOD Selected.xml' Size='705' Type='Subpage' Build='20181107105869' />
+<Source FileName='TV Selected.xml' Size='703' Type='Subpage' Build='20181107105869' />
+<Source FileName='main.xml' Size='6292' Type='Page' Build='20181107105868' />
+<Source FileName='Power Check.xml' Size='8720' Type='Page' Build='20181107105868' />
+<Source FileName='Audio.xml' Size='17199' Type='Page' Build='20181107105866' />
+<Source FileName='Right.xml' Size='12717' Type='Page' Build='20181107105863' />
+<Source FileName='Left.xml' Size='12715' Type='Page' Build='20181107105861' />
+<Source FileName='Cable-Right.xml' Size='28432' Type='Subpage' Build='20181107105859' />
+<Source FileName='Cable-Left.xml' Size='28431' Type='Subpage' Build='20181107105857' />
+<Source FileName='VOD POP.xml' Size='1638' Type='Subpage' Build='20181107105849' />
+<Source FileName='Center.xml' Size='12719' Type='Page' Build='20181107105848' />
+<Source FileName='START.xml' Size='2501' Type='Page' Build='20181107105836' />
+</Sources>
+</Project>
+</File>
